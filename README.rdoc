@@ -7,3 +7,7 @@ Tournament log on työkalu jolla hearthstone pelaajat voivat tallentaa omia turna
 Sovellus on toteutettu Ruby on Railssilla, se on hostattu osoitteessa http://tournamentlog.herokuapp.com/
 
 Sovelluksen dokumentaatio löytyy osoitteesta: https://github.com/Wampie/tsoha2016/blob/master/doc/Tsoha2016AleksiMajander.pdf
+
+Viikko 2 palautukseen lisätty tournament taulu, päivitetty alustavaa tietosisältöä ja lisätty relaatiomalli. 
+
+https://github.com/Wampie/tsoha2016/blob/master/db/migrate/20160201214322_create_tournaments.rb
